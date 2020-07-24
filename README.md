@@ -1,5 +1,5 @@
-# budu-xapi
-budu.jobs External API
+# Docs
+- [Swagger UI](https://budu.jobs/xapi/docs/index.html)
 
-# Swagger API
-https://budu.jobs/xapi/docs/index.html
+# Sample clients
+- [PHP](/sample-clients/php/README.md) 

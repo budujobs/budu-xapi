@@ -4,13 +4,13 @@ $buduClientID = '5f1b1280-fa5b-4dab-b3c6-0e7f4d87be64';
 $buduClientSecret = '14b19805-e640-4403-936d-6821000bdca8';
 
 // This is the URL we'll send the user to first to get their authorization
-$authorizeURL = 'http://localhost:3000/xapi/oauth/authorize';
+$authorizeURL = 'https://budu.jobs/xapi/oauth/authorize';
 
 // This is the endpoint our server will request an access token from
-$tokenURL = 'http://localhost:3000/xapi/oauth/access_token';
+$tokenURL = 'https://budu.jobs/xapi/oauth/access_token';
 
 // This is the budu base URL we can use to make authenticated API requests
-$apiURLBase = 'http://localhost:3000/xapi/';
+$apiURLBase = 'https://budu.jobs/xapi/';
 
 // The URL for this script, used as the redirect URL
 $baseURL = 'http://localhost:3030/';
